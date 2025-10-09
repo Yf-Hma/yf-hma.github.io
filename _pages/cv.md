@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+__<span style="color:#2B547E;">Education</span>__
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aix-Marseille University, Aix-Marseille, 2015-2018.
+* Master of Science in Industrial Engineering (dual degree), École des Mines de Saint-Étienne, France, 2013-2014.
+* Engineering degree in Industrial and Production Engineering, The first Moroccan Design and Technology engineering school (ENSAM), Meknes, Morocco, 2009-2014.
 
-Work experience
+__<span style="color:#2B547E;">Work experience</span>__
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2023 – Present Assistant Professor - Ai Movement, UM6P, Rabat, Morocco.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2021 – September 2023, Research Engineer - Ai Movement, UM6P, Rabat, Morocco.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<!-- * June 2021 – August 2021 Data Scientist - United Crocos, Marseille, France. -->
 
-Publications
+* 2019 – 2021 Postdoctoral Researcher - Computer Science and Systems Laboratory (LIS), Speech and Language Laboratory (LPL), France.
+
+__<span style="color:#2B547E;">Ph.D co-supervisions</span>__
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- - **October 2023 – Present**  
+  *Co-supervision with Prof. Amal El Fallah Seghrouchni and Mr. Faissal Sahbaoui*  
+  **Yassine Rachidy** — *A Realtime Farmers’ Advisory System based on a Chatbot Approach in Moroccan Dialect.*
+
+- **October 2023 – Present**  
+  *Co-supervision with Prof. Amal El Fallah Seghrouchni*  
+  **Abdelilah Aitrouga** — *Multimodal Video Understanding: Application in Human-Robot Interaction.*
+
+- **January 2022 – Present**  
+  *Co-supervision with Dr. Naima Otberdout and Prof. Amal El Fallah Seghrouchni*  
+  **Houda Saffi** — *3D Point Cloud Analysis for Object, Scene, and Building Recognition and Reconstruction.*
+
+- **January 2022 – Present**  
+  *Co-supervision with Prof. Amal El Fallah Seghrouchni*  
+  **Lahoucine Kdouri** — *Multimodal Deep Learning for Human-Robot Interaction: Linking Behavior and Brain Activity during Conversations.*
+
+- **January 2022 – Present**  
+  *Co-supervision with Prof. Amal El Fallah Seghrouchni*  
+  **Jihad R’baiti** — *Neural Machine Translation for the Arabic Language.* -->
+
+
+  | Period | Co-supervisors | Student | Research Topic |
+  |:--------|:----------------|:----------|:----------------|
+  | <span style="color:#2B547E;">**Oct 2023 – Present**</span> | Prof. Amal El Fallah Seghrouchni, Mr. Faissal Sahbaoui | <span style="color:#B22222;">**Yassine Rachidy**</span> | *A Realtime Farmers’ Advisory System based on a Chatbot Approach in Moroccan Dialect.* |
+  | <span style="color:#2B547E;">**Oct 2023 – Present**</span> | Prof. Amal El Fallah Seghrouchni | <span style="color:#B22222;">**Abdelilah Aitrouga**</span> | *Multimodal Video Understanding - Application in Decoding Visual Stimuli from Brain Recordings.* |
+  | <span style="color:#2B547E;">**Jan 2022 – Present**</span> | Dr. Naima Otberdout, Prof. Amal El Fallah Seghrouchni | <span style="color:#B22222;">**Houda Saffi**</span> | *3D Point Cloud Analysis for Object, Scene, and Building Recognition and Reconstruction.* |
+  | <span style="color:#2B547E;">**Jan 2022 – Present**</span> | Prof. Amal El Fallah Seghrouchni | <span style="color:#B22222;">**Lahoucine Kdouri**</span> | *Multimodal Deep Learning for Human-Robot Interaction – Linking Behavior and Brain Activity during Conversations.* |
+  | <span style="color:#2B547E;">**Jan 2022 – Present**</span> | Prof. Amal El Fallah Seghrouchni | <span style="color:#B22222;">**Jihad R’baiti**</span> | *Neural Machine Translation for the Arabic Language.* |
