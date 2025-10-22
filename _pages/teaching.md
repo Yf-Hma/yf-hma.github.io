@@ -24,7 +24,7 @@ author_profile: true
 <span style="color:#6A737D;">2017 – 2018</span>
 - Teaching Undergraduate courses (<strong>L1</strong>, <strong>L2</strong>, <strong>L3</strong>) in computer science.
 - Topics included <span style="color:#1E90FF;">C/C++ programming</span>, <span style="color:#1E90FF;">databases</span>, and <span style="color:#1E90FF;">optimization</span>.
-
+- **Total teaching hours:** 186 hours.
 ---
 
 ### <span style="color:#2B547E;"><strong>IUT of Aix-en-Provence – Aix-Marseille University</strong></span>
@@ -32,7 +32,7 @@ author_profile: true
 <span style="color:#6A737D;">2018 – 2019</span>
 - Teaching Undergraduate courses (<strong>L1</strong>, <strong>L2</strong>) in computer science.
 - Topics included <span style="color:#1E90FF;">object-oriented programming in C++</span> and a <span style="color:#1E90FF;">machine learning project</span>.
-
+- **Total teaching hours:** 92 hours.
 ---
 
 ### <span style="color:#2B547E;"><strong>AI Movement – UM6P</strong></span>
