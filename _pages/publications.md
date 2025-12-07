@@ -32,49 +32,55 @@ author_profile: true
   {% endfor %}
 {% endif %} -->
 
+
 ## <span style="color:#2B547E;">Journal Articles</span>
 ### 2025
+- Houda Saffi, Naima Otberdout, Youssef Hmamouche, Amal El Fallah Seghrouchni.  
+  *Auto-DBPA: Density-Aware Ball-Pivoting Algorithm with Adaptive Radius Using Contextual Bandits for Object and Scene Reconstruction.*   
+  *IEEE Transactions on Multimedia*, 2025, 3623546. [https://doi: 10.1109/TMM.2025.3623546](https://doi: 10.1109/TMM.2025.3623546)
+
 - Youssef Hmamouche, Ismail Chihab, Lahoucine Kdouri, Amal El Fallah Seghrouchni.  
-  *BrainDEC: A Multimodal LLM for the Non-Invasive Decoding of Spoken Text from Brain Recordings.*  
-  *Information Fusion*, 2026, 103589.  
-  [https://doi.org/10.1016/j.inffus.2025.103589](https://doi.org/10.1016/j.inffus.2025.103589)
+  *BrainDEC: A Multimodal LLM for the Non-Invasive Decoding of Spoken Text from Brain Recordings.*    
+  *Information Fusion*, 2026, 103589.  [https://doi.org/10.1016/j.inffus.2025.103589](https://doi.org/10.1016/j.inffus.2025.103589)
 
 ### 2024
 - Youssef Hmamouche, Magalie Ochs, Laurent Prévot, Thierry Chaminade.  
   *Interpretable prediction of brain activity during conversations from multimodal behavioral signals.*  
-  *PLOS ONE*, 19(3): e0284342, 2024.  
-  [https://doi.org/10.1371/journal.pone.0284342](https://doi.org/10.1371/journal.pone.0284342)
+  *PLOS ONE*, 19(3): e0284342, 2024.  [https://doi.org/10.1371/journal.pone.0284342](https://doi.org/10.1371/journal.pone.0284342)
 
 ### 2023
 - Omar Elharrouss, Youssef Hmamouche, Assia Kamal Idrissi, Btissam El Khamlichi, Amal El Fallah Seghrouchni.  
   *Refined edge detection with cascaded and high-resolution convolutional network.*  
-  *Pattern Recognition*, 138:109361, 2023.  
-  [https://doi.org/10.1016/j.patcog.2023.109361](https://doi.org/10.1016/j.patcog.2023.109361)
+  *Pattern Recognition*, 138:109361, 2023.  [https://doi.org/10.1016/j.patcog.2023.109361](https://doi.org/10.1016/j.patcog.2023.109361)
 
 
 ### 2021
 - Youssef Hmamouche, Lotfi Lakhal, Alain Casali.  
   *A scalable framework for large time series prediction.*  
-  *Knowledge and Information Systems (KAIS)*, 63(5):1093–1116, 2021.  
-  [https://doi.org/10.1007/s10115-021-01544-w](https://doi.org/10.1007/s10115-021-01544-w)
+  *Knowledge and Information Systems (KAIS)*, 63(5):1093–1116, 2021.  [https://doi.org/10.1007/s10115-021-01544-w](https://doi.org/10.1007/s10115-021-01544-w)
 
 ### 2020
 - Youssef Hmamouche.  
   *NlinTS: An R Package for Causality Detection in Time Series.*  
-  *The R Journal*, 12(1):21, 2020.  
-  [https://doi.org/10.32614/RJ-2020-016](https://doi.org/10.32614/RJ-2020-016)
+  *The R Journal*, 12(1):21, 2020.  [https://doi.org/10.32614/RJ-2020-016](https://doi.org/10.32614/RJ-2020-016)
 
+
+## <span style="color:#2B547E;">Working Papers</span>
+  - Y. Rachidy, J. Rbaiti, Y. Hmamouche, F. Sehbaoui, & A. E. F. Seghrouchni.
+    *Strategic deflection: Defending llms from logit manipulation.*
+    *arXiv preprint arXiv:2507.22160, 2025.* [https://arxiv.org/abs/2507.22160](https://arxiv.org/abs/2507.22160)
 
 
 ## <span style="color:#2B547E;">Conferences</span>
 ### 2025
+
 - Rachidy, Y., Hmamouche, Y., Sehbaoui, F., & Seghrouchni, A. E. F.
 *Domain Adaptive Document Reranking for Retrieval Augmented Generation.*
 *The IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2025 (accepted).*
 
-- R'baiti, J., El Hachimi, C., Hmamouche, Y., & Seghrouchni, A. E. F.
-*MorAI at QIAS 2025: Collaborative LLM via Voting and Retrieval-Augmented Generation for Solving Complex Inheritance Problems*
-*The Third Arabic Natural Language Processing Conference (ArabicNLP), 2025. Association for Computational Linguistics (accepted).*
+- R’baiti, J., El Hachimi, C., Hmamouche, Y., & Seghrouchni, A. (2025, November).
+*MorAI at QIAS 2025: Collaborative LLM via Voting and Retrieval-Augmented Generation for Solving Complex Inheritance Problems.*
+*The Third Arabic Natural Language Processing Conference: Shared Tasks (pp. 947-952).*
 
 - Aitrouga, A., Hmamouche, Y., & Seghrouchni, A. E. F.
 *Swin-Editor: Enhancing Consistency in Text-Driven Video Editing*
