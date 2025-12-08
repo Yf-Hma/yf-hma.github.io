@@ -66,19 +66,20 @@ author_profile: true
 
 
 ## <span style="color:#2B547E;">Working Papers</span>
-  - Y. Rachidy, J. Rbaiti, Y. Hmamouche, F. Sehbaoui, & A. E. F. Seghrouchni.
-    *Strategic deflection: Defending llms from logit manipulation.*
-    *arXiv preprint arXiv:2507.22160, 2025.* [https://arxiv.org/abs/2507.22160](https://arxiv.org/abs/2507.22160)
+  - Yassine Rachidy, Jihad Rbaiti, Youssef Hmamouche, Faissal Sehbaoui, Amal El Fallah Seghrouchni.
+    *Strategic deflection: Defending llms from logit manipulation.* [https://arxiv.org/abs/2507.22160](https://arxiv.org/abs/2507.22160)
 
+  - Abdelilah Aitrouga, Youssef Hmamouche, Amal El Fallah Seghrouchni.
+  *VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing.* [arXiv preprint arXiv:2509.25998](arXiv preprint arXiv:2509.25998).
 
 ## <span style="color:#2B547E;">Conferences</span>
 ### 2025
 
-- Rachidy, Y., Hmamouche, Y., Sehbaoui, F., & Seghrouchni, A. E. F.
+- Yassine Rachidy, Youssef Hmamouche, Faissal Sehbaoui, Amal El Fallah Seghrouchni.
 *Domain Adaptive Document Reranking for Retrieval Augmented Generation.*
 *The IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2025 (accepted).*
 
-- R’baiti, J., El Hachimi, C., Hmamouche, Y., & Seghrouchni, A. (2025, November).
+- Jihad R’baiti, Chouaib El Hachimi, Youssef Hmamouche, Amal El Fallah Seghrouchni.
 *MorAI at QIAS 2025: Collaborative LLM via Voting and Retrieval-Augmented Generation for Solving Complex Inheritance Problems.*
 *The Third Arabic Natural Language Processing Conference: Shared Tasks (pp. 947-952).*
 
