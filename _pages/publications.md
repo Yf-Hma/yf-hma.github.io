@@ -35,6 +35,15 @@ author_profile: true
 
 ## <span style="color:#2B547E;">Journal Articles</span>
 ### 2026
+
+- Aitrouga, Abdelilah, Youssef Hmamouche, Amal El Fallah Seghrouchni.  
+  *"VRWKV-Editor: reducing quadratic complexity in transformer-based video editing."*  
+  *Multimedia Systems*, 2026, [https://doi.org/10.1007/s00530-026-02649-4](https://doi.org/10.1007/s00530-026-02649-4).
+
+- Rachidy, Yassine, Jihad R’baiti, Youssef Hmamouche, Faisal Sehbaoui, Amal El Fallah Seghrouchni.  
+  *"Strategic Deflection: Defending LLMs from Logit Manipulation."*  
+  *Computational Linguistics*, 2026, [https://doi.org/10.1162/COLI.a.645](https://doi.org/10.1162/COLI.a.645)
+
 - Jihad R’baiti, Youssef Hmamouche, Amal El Fallah Seghrouchni.  
   *Maghrebi dialects–Arabic bidirectional translation: an improved transformer with transfer learning.*  
   *Natural Language Processing*, 2026, [https://doi.org/10.1017/nlp.2026.10018](https://doi.org/10.1017/nlp.2026.10018).
